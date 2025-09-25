@@ -11,11 +11,13 @@ Build mini-projects to practice
 Track my progress in mobile development
 
 📂 Structure
+
 flutter-journey/
 │
 ├── mini-projects/    # Small Flutter apps (e.g., counter app, todo app)
 ├── experiments/      # Widget and UI experiments
 └── notes/            # Key learnings, resources, and snippets
+
 
 📅 Progress Log
 
