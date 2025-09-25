@@ -14,21 +14,16 @@ Got it 👍 Here’s a complete all-in-one README.md you can copy directly into 
 - Create a portfolio of Flutter work over time  
 
 ---
-
 ## 📂 Repo Structure
 
-
-
-flutter_journey/
+```flutter_journey/
 │
-├── mini_projects/ # Full small apps (counter, todo, etc.)
-├── experiments/ # UI / widget experiments
-├── notes/ # Learning notes, summaries, code snippets
-├── assets/ # Images, fonts, etc. used in projects
-└── README.md # This file
-
-
----
+├── mini_projects/      # Full small apps (counter, todo, etc.)
+├── experiments/        # UI / widget experiments
+├── notes/              # Learning notes, summaries, code snippets
+├── assets/             # Images, fonts, etc. used in projects
+└── README.md           # This file
+```
 
 ## 📅 Progress Log & Milestones
 
